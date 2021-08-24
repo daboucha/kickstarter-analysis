@@ -15,6 +15,7 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+![Theater_Outcomes_Based_on_Launch_Date](Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 

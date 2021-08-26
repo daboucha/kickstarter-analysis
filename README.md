@@ -20,7 +20,7 @@
 
 - What can you conclude about the Outcomes based on Goals?
 
-![Outcomes_Based_on_Goals](Outcomes_Based_on_Goals.png)
+![Outcomes_Based_on_Goals](Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 

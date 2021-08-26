@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
+### Performing analysis on kickstarter data to determine how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 

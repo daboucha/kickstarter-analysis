@@ -7,39 +7,26 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-- Organized the information of the number of successful, failed, and cancelled outcomes based on their Kickstarter launch date using a pivot table.
-- Sorted and examined the newly organized information.
-- Filtered the information to look exclusively at theater projects.
-- Graphed the findings in a line graph to visualize the total number of each outcome across the timeline.
+I organized the information of the number of successful, failed, and cancelled outcomes based on their Kickstarter launch date using a pivot table. I then sorted and examined the newly organized information, and fiiltered the information to look exclusively at theater projects. I then graphed the findings in a line graph to visualize the total number of each outcome across the timeline.
+
+![Theater_Outcomes_Based_on_Launch_Date](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-- Constructed a table to gather and organize the information of the number of successful, failed, and cancelled outcomes based on what funding goals.
-- Had the table group the results based on predetermined ranges of their funding goal.
-- Had the table filter the data to look exclusively at plays.
-- Sorted and examined the newly organized information.
-- Calculated the percentage of successful, failed, and cancelled projects accordingly using the newly organized information.
-- Graphed the findings into a line chart to visualize the relationship between the goal-amount ranges and the percentage of successful, failed, or canceled projects.
+I constructed a table to gather and organize the information of the number of successful, failed, and cancelled outcomes based on what funding goals. I had the table group the results based on predetermined ranges of their funding goal, and filtered the data to look exclusively at plays by using the COUNTIFS function. I calculated the total projects in each funding goal range using the SUM function. I calculated the percentage of successful, failed, and cancelled projects for each funding goal range accordingly. I then graphed the findings into a line chart to visualize the relationship between the goal amount ranges and the percentage of successful, failed, or canceled projects.
+
+![Outcomes_Based_on_Goals](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-- Might have had to clean the data to uncover any potential outliers.
-- Looked into using a different style of graph to visualize the "Outcomes Based on Goals" findings that may be more suitable than a line graph.
+This data was clean, but I might have had to clean the data to uncover any potential outliers. I also ran into a challenge thinking about other graph styles to visualize the "Outcomes Based on Goals" findings that may be more suitable than a line graph.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-	1. Theater Kickstarters which launched between April & August had the most successful outcomes, with a peak for ones that started in May.
+	1. Theater Kickstarters which launched between April & August had the most successful outcomes with a peak for ones that started in May.
 	2. Theater Kickstarters launched in December had a significantly lower success rate than any other time of year.
-  
-![Theater_Outcomes_Based_on_Launch_Date](resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 	1. Projects for plays with fundraising goals of under $5,000 had a much higher chance of success.
-	2. There is a steady decrease in play projects success rate the higher the funding goal, up to $25,000. 
-	3. The sample size of play projects with a fundraising goal higher than $25,000 is much smaller, and may lead the data to look misleading. 
-	4. If play projects with fundraising goals between $25,000 - $50,000 were summed up and grouped together to increase the sample size, then we would see it following a more consistent pattern of a steady decrease to the success rate as the funding goal increased.
-
-![Outcomes_Based_on_Goals](resources/Outcomes_vs_Goals.png)
-![Outcomes_Based_on_Goals_Version_2](resources/Outcomes_vs_Goals_v2.png)
 
 - What are some limitations of this dataset?
 	1. The dataset has a small sample size prior to the year 2014, and for projects with funding goals above $15,000 which makes it more difficult to determine any trends.

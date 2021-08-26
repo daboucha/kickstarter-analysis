@@ -16,11 +16,11 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 - 
-![Theater_Outcomes_Based_on_Launch_Date](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_Based_on_Launch_Date](resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
-![Outcomes_Based_on_Goals](Outcomes_vs_Goals.png)
+![Outcomes_Based_on_Goals](resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
